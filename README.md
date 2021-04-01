@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on creating a blog in GitHub using Jekyll.
+
 <!--
 **AceGayhart/acegayhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
