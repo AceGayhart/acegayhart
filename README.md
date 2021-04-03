@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating a blog in GitHub using Jekyll.
+- 🔭 I’m currently working on creating a [blog](https://acegayhart.com/) in GitHub using Jekyll.
+- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/AceGayhart/).
+- 😄 Pronouns: he/him/his
 
 <!--
 **AceGayhart/acegayhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
