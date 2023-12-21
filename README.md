@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating a [blog](https://acegayhart.com/) in GitHub using Jekyll.
-- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/AceGayhart/).
+- 🔭 I’m currently working on creating a personal clock/weather display:
+  - Front end: https://github.com/AceGayhart/weather-display
+  - Back end: https://github.com/AceGayhart/WeatherDisplayService
+- 📫 You can reach me via [my blog](https://acegayhart.com/) 
 - 😄 Pronouns: he/him/his
 
 <!--
