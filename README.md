@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating a personal clock/weather display:
-  - Front end: https://github.com/AceGayhart/weather-display
-  - Back end: https://github.com/AceGayhart/WeatherDisplayService
-- 📫 You can reach me via [my blog](https://acegayhart.com/) 
+- 🔭 I am currently the Engineering Manager for the Asset Monitoring team at SmartSense by Digi.
+- 📫 You can reach me via [my blog](https://acegayhart.com/) or [LinkedIn](https://www.linkedin.com/in/acegayhart/)
 - 😄 Pronouns: he/him/his
 
 <!--
